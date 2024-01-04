@@ -1,0 +1,2 @@
+1.训练集中的（yolov3.cfg），（yolov3.weights），（object_names.txt）是对生活中一些常见的物品的训练数据。
+2.（haarcascade_frontalface_default.xml）文件一般是对人脸识别时跟随移动的。
