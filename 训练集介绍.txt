@@ -1,2 +1,8 @@
 1.训练集中的（yolov3.cfg），（yolov3.weights），（object_names.txt）是对生活中一些常见的物品的训练数据。
 2.（haarcascade_frontalface_default.xml）文件一般是对人脸识别时跟随移动的。
+
+在GitHub中使用git推送文件的步骤(文件大于100M的不适用，会推送失败)
+1. git clone GitHub网址--2.将要推送的文件复制进文件中--3. git add . 
+4. git commit -m "~" --5.git push -u origin main
+
+
